@@ -1,0 +1,59 @@
+name: RAG Eval Gate
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  eval:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate synthetic test set
+        run: python phase-a/generate_test_set.py --n 50
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Run RAG answers
+        run: python phase-a/run_rag_on_testset.py --mode light
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Run RAGAS evaluation
+        run: python phase-a/run_ragas.py --allow-fallback
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Check faithfulness gate
+        run: python phase-a/check_threshold.py --metric faithfulness --threshold 0.75
+
+      - name: Build failure analysis
+        if: always()
+        run: python phase-a/analyze_failures.py
+
+      - name: Upload eval artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ragas-report
+          path: |
+            phase-a/test_set_v1.csv
+            phase-a/test_set_review_notes.md
+            phase-a/rag_answers.csv
+            phase-a/ragas_results.csv
+            phase-a/ragas_summary.json
+            phase-a/failure_analysis.md

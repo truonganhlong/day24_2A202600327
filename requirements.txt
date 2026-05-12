@@ -1,0 +1,19 @@
+underthesea 
+rank_bm25 
+qdrant-client 
+sentence-transformers 
+transformers == 4.37.2
+numpy 
+ragas 
+datasets 
+openai 
+python-dotenv 
+torch
+FlagEmbedding
+langchain-openai
+pandas
+scikit-learn
+guardrails-ai @ https://files.pythonhosted.org/packages/f7/58/864b849c92fb36f543c0c02e82194a989963da171c00aed75652658887b5/guardrails_ai-0.10.0-py3-none-any.whl
+presidio-analyzer
+presidio-anonymizer
+langfuse==3.2.1

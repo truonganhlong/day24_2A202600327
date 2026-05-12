@@ -1,0 +1,36 @@
+{
+  "num_questions": 50,
+  "aggregate": {
+    "faithfulness": 0.7287,
+    "answer_relevancy": 0.451,
+    "context_precision": 0.745,
+    "context_recall": 0.75
+  },
+  "by_evaluation_type": {
+    "multi_context": {
+      "faithfulness": 0.8205,
+      "answer_relevancy": 0.4626,
+      "context_precision": 0.9231,
+      "context_recall": 0.8846
+    },
+    "reasoning": {
+      "faithfulness": 0.875,
+      "answer_relevancy": 0.5005,
+      "context_precision": 0.875,
+      "context_recall": 0.8333
+    },
+    "simple": {
+      "faithfulness": 0.6107,
+      "answer_relevancy": 0.4213,
+      "context_precision": 0.59,
+      "context_recall": 0.64
+    }
+  },
+  "targets": {
+    "faithfulness": 0.75,
+    "answer_relevancy": 0.7,
+    "context_precision": 0.6,
+    "context_recall": 0.65
+  },
+  "metric_source": "ragas"
+}

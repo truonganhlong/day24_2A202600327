@@ -1,0 +1,200 @@
+{"ts": 1778600823.2782025, "input_len": 50, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 44, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 60, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 41, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 41, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 46, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 60, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 60, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 44, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 60, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 46, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 41, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 60, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 44, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 60, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 60, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 46, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 60, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 44, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 44, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 46, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 60, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 46, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 46, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 60, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 46, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 50, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 60, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 50, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 60, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 44, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 50, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 41, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 41, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 41, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 50, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 50, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 46, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778600823.2782025, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 44, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778600823.2782025, "input_len": 46, "pii_found": false, "blocked": false, "reason": ""}
+{"ts": 1778601260.8087301, "input_len": 50, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601260.8307872, "input_len": 44, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601262.0746894, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601262.1087267, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601263.1738122, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601263.1898217, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601264.2239602, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601264.2397122, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601279.8865426, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601279.902709, "input_len": 60, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601281.124591, "input_len": 41, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601281.1544511, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601281.1754332, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601281.1908886, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601282.0102847, "input_len": 41, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601282.0435097, "input_len": 46, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601283.0748622, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601283.0919735, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601283.1116555, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601283.1359913, "input_len": 60, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601283.1580775, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601283.1788197, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601283.2022464, "input_len": 60, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601283.2199144, "input_len": 44, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601284.2893257, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601284.3057485, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601284.3331459, "input_len": 60, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601284.359787, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601284.3746378, "input_len": 46, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601284.3917062, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601285.3280609, "input_len": 41, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601285.3537316, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601285.3858817, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601285.412905, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601285.4443843, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601285.4590642, "input_len": 60, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601285.4897082, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601285.5077314, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601285.5255766, "input_len": 44, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601286.556657, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601286.5730164, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601286.597241, "input_len": 60, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601286.6237788, "input_len": 60, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601286.6409187, "input_len": 46, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601286.6585336, "input_len": 60, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601286.6835635, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601286.7057147, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601286.724851, "input_len": 44, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601286.751801, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601287.7833962, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601303.5858018, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601303.6065848, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601303.6190581, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601303.6226087, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601303.6407006, "input_len": 44, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.271794, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601304.2738447, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.286039, "input_len": 46, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.2968347, "input_len": 60, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.3071308, "input_len": 46, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.3144841, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.3266275, "input_len": 46, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.3305595, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.3379111, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.7709744, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601304.7709744, "input_len": 60, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.788684, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.7904193, "input_len": 46, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.7996526, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.8026586, "input_len": 50, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.8106863, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.816632, "input_len": 60, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.8229496, "input_len": 50, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.828799, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.8297217, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.8398476, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.8408768, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601304.8503358, "input_len": 60, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601305.256289, "input_len": 65, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601305.2623634, "input_len": 44, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601305.2738583, "input_len": 50, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601305.2766824, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601305.282666, "input_len": 54, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601305.285537, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601305.6438003, "input_len": 41, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601306.0087337, "input_len": 41, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601306.0093038, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601306.022017, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601306.0288522, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601306.0342429, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601306.0402665, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601306.3914654, "input_len": 41, "pii_found": true, "blocked": false, "reason": ""}
+{"ts": 1778601306.4013543, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601306.410044, "input_len": 21, "pii_found": false, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601306.41099, "input_len": 50, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601306.4201088, "input_len": 50, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601306.4249659, "input_len": 46, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601306.432522, "input_len": 45, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601306.4345205, "input_len": 44, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}
+{"ts": 1778601306.444162, "input_len": 46, "pii_found": true, "blocked": true, "reason": "outside legal/finance RAG scope"}

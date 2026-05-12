@@ -1,0 +1,8 @@
+component,unit_cost,volume,monthly_cost
+Input PII guard,$0.00 / query,100000,0.0
+Topic + injection guard,$0.00 / query,100000,0.0
+RAG generation gpt-4o-mini,$0.00025 / query,100000,25.0
+RAGAS nightly sample,$0.012 / eval,1500,18.0
+LLM judge calibration,$0.010 / pair,1000,10.0
+Llama Guard API,$0.0005 / output,100000,50.0
+Langfuse/LangSmith logging,free tier / sampled,100000,0.0

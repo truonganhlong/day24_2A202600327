@@ -1,0 +1,17 @@
+{
+  "num_labels": 10,
+  "agreement_count": 5,
+  "agreement_rate": 0.5,
+  "cohens_kappa": 0.2754,
+  "interpretation": "fair agreement",
+  "human_distribution": {
+    "B": 8,
+    "tie": 1,
+    "A": 1
+  },
+  "judge_distribution": {
+    "B": 3,
+    "A": 4,
+    "tie": 3
+  }
+}

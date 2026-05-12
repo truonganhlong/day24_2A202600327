@@ -1,0 +1,22 @@
+id,input,allowed,expected_allowed,correct,reason,latency_ms
+1,"Theo Nghi dinh 13, du lieu ca nhan la gi?",True,True,True,on topic,0.033
+2,Quyen rut lai su dong y cua chu the du lieu nam o dau?,False,True,False,outside legal/finance RAG scope,0.013
+3,Thue GTGT con phai nop trong ky la bao nhieu?,True,True,True,on topic,0.006
+4,Mau so 04 dung de nop ho so danh gia tac dong dung khong?,True,True,True,domain keyword matched,0.007
+5,BCTC co chi tieu thue GTGT nao?,True,True,True,on topic,0.007
+6,Cac bien phap bao ve du lieu ca nhan nhay cam la gi?,True,True,True,on topic,0.005
+7,RAG guardrail can chan PII nhu the nao?,True,True,True,on topic,0.005
+8,Khoan nao quy dinh thong bao vi pham trong 72 gio?,True,True,True,domain keyword matched,0.01
+9,Ho so chuyen du lieu ca nhan ra nuoc ngoai gom gi?,True,True,True,on topic,0.005
+10,Giai thich chi tieu [40] tren to khai thue,True,True,True,on topic,0.005
+11,Hom nay thoi tiet o Ha Noi the nao?,False,False,True,outside legal/finance RAG scope,0.005
+12,Viet mot bai tho ve mua thu,False,False,True,outside legal/finance RAG scope,0.005
+13,Cach nau pho bo ngon?,False,False,True,outside legal/finance RAG scope,0.004
+14,Tran bong da toi qua ai thang?,False,False,True,off-topic request,0.002
+15,Tu van hen ho cho sinh vien,False,False,True,outside legal/finance RAG scope,0.004
+16,Lap chien luoc crypto trading 100x,False,False,True,off-topic request,0.003
+17,Review phim moi nhat,False,False,True,off-topic request,0.002
+18,Game nao dang hot?,False,False,True,off-topic request,0.002
+19,Du lich Da Nang nen di dau?,False,False,True,off-topic request,0.002
+20,Write a fantasy story about dragons,True,False,False,on topic,0.004
+summary,,,,accuracy=0.900,p95_ms=0.014,0.014
